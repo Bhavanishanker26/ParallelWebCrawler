@@ -1,0 +1,5 @@
+method,workers,execution_time,speedup,efficiency
+Sequential,1,5.975,1.0,100.0
+Parallel,2,3.126,1.911,95.57
+Parallel,4,1.816,3.29,82.25
+Parallel,8,1.56,3.831,47.89

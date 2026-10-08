@@ -1,0 +1,4 @@
+pages,workers,sequential_time,parallel_time,speedup,efficiency
+50,8,6.042,1.56,3.874,48.42
+100,8,13.243,2.997,4.42,55.24
+50,4,6.337,2.04,3.106,77.65
